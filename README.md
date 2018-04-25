@@ -109,3 +109,4 @@ in a library, but they should be used very sparingly.
 
 ## Resources
 - [Best Practices for Spies, Stubs, and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
+<p data-visibility='hidden'>PHRG Mocks and Stubs</p>

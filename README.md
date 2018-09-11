@@ -107,6 +107,9 @@ mocks.
 Stubs and mocks are still useful for testing the annoying async parts or mocking out methods
 in a library, but they should be used very sparingly.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-refactoring-and-design-patterns-testing-with-mocks-and-stubs-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-refactoring-and-design-patterns-testing-with-mocks-and-stubs-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 - [Best Practices for Spies, Stubs, and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
 <p data-visibility='hidden'>PHRG Mocks and Stubs</p>
